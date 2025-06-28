@@ -1,4 +1,3 @@
-# � DAY 1 - Introducción a DevOps y Linux
 <h1 style="color: #212529;">🚀 DAY 1 - Introducción a DevOps y Linux</h1>
 
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #28a745;">
